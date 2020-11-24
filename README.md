@@ -6,4 +6,4 @@
 
 ## Tutorial Link
 
-[Laravel Controller Form Validation, SQL Transaction Statements and Error Message Output](https://techflow360.com/laravel-controller-form-validation-sql-transaction-statements-and-error-message-output/
+[Laravel Controller Form Validation, SQL Transaction Statements and Error Message Output] (https://techflow360.com/laravel-controller-form-validation-sql-transaction-statements-and-error-message-output/
